@@ -6,3 +6,4 @@
 - mines.py
 - factorial_recursive.py
 - checkbook.py
+- tic.py
